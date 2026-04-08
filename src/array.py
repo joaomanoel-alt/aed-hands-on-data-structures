@@ -1,6 +1,7 @@
 from abc import ABC, abstractmethod
 
 
+
 class Array(ABC):
     """
     Interface para um TAD de Array.
